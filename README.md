@@ -6,6 +6,7 @@ Developing a model to recognize faces using PCA to decrease dimensions  of image
 * Don’t choose the number of components manually. Instead of that, use the option that allows you to set the variance of the input that is supposed to be explained by the generated components
 ![image](https://user-images.githubusercontent.com/75946833/174461680-d017cbbd-2c76-42ae-b3ed-a00d72dbfe54.png)
 * First Function:Convert the RGB image to Grayscale image (Black and white)
+
 ![22](https://user-images.githubusercontent.com/75946833/174462002-62a62cbf-b018-4f5d-80db-036187ec8a7e.JPG) ![11](https://user-images.githubusercontent.com/75946833/174462023-5e510e98-2828-43e2-8195-fa47caa38d80.JPG)
 
 * Third Function:
